@@ -1,0 +1,12 @@
+	
+	ABOUT
+
+This library basiclly abstracts away the core os functionally and contains a set of commonly used functions. It also contains a very basic template library.
+
+	BUILDING
+
+Add the 'include' directory as an include path and compile everything in src.
+
+	DISCLAMER
+
+This isn't finished, never will be, most probably contains bugs etc. Use it on your own risk.
